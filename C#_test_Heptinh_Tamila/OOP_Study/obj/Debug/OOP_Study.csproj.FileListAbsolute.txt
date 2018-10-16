@@ -1,0 +1,14 @@
+C:\Users\GSApps\source\repos\OOP_Study\OOP_Study\obj\Debug\OOP_Study.csprojAssemblyReference.cache
+C:\Users\GSApps\source\repos\OOP_Study\OOP_Study\obj\Debug\OOP_Study.csproj.CoreCompileInputs.cache
+C:\Users\GSApps\source\repos\OOP_Study\OOP_Study\bin\Debug\OOP_Study.exe.config
+C:\Users\GSApps\source\repos\OOP_Study\OOP_Study\bin\Debug\OOP_Study.exe
+C:\Users\GSApps\source\repos\OOP_Study\OOP_Study\bin\Debug\OOP_Study.pdb
+C:\Users\GSApps\source\repos\OOP_Study\OOP_Study\obj\Debug\OOP_Study.exe
+C:\Users\GSApps\source\repos\OOP_Study\OOP_Study\obj\Debug\OOP_Study.pdb
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.exe.config
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.exe
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.pdb
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\OOP_Study.csprojAssemblyReference.cache
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\OOP_Study.csproj.CoreCompileInputs.cache
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\OOP_Study.exe
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\OOP_Study.pdb

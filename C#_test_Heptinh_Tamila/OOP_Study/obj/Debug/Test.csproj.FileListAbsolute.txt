@@ -1,0 +1,21 @@
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.exe.config
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.exe
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.pdb
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\OOP_Study.exe
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\OOP_Study.pdb
+C:\Users\Tamilka\Documents\C# test\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.exe.config
+C:\Users\Tamilka\Documents\C# test\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.exe
+C:\Users\Tamilka\Documents\C# test\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.pdb
+C:\Users\Tamilka\Documents\C# test\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Tamilka\Documents\C# test\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Tamilka\Documents\C# test\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\OOP_Study.exe
+C:\Users\Tamilka\Documents\C# test\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\OOP_Study.pdb
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.exe.config
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.exe
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\C#_test_Heptinh_Tamila\OOP_Study\bin\Debug\OOP_Study.pdb
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\OOP_Study.exe
+C:\Users\GSApps\source\repos\C#_test_Heptinh_Tamila\C#_test_Heptinh_Tamila\OOP_Study\obj\Debug\OOP_Study.pdb
